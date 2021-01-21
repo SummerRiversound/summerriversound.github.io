@@ -1,5 +1,5 @@
 # 개발자 하은의 블로그 포스트 저장용 Repository 입니다
-해당 Repository는 단지 저장 목적으로 개설된 Repository입니다
+해당 Repository는 단지 저장 목적으로 개설된 Repository입니다   
 포스팅의 내용은 [하은_Haeun의 개발로그와 낙서장](https://haeunrs.tistory.com "제 블로그입니다")에서 확인해주시기 바랍니다
 
 

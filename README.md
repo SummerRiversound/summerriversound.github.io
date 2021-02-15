@@ -4,7 +4,6 @@
 
 
 ## Folder & Filing
----
 1. ROOT
    - index.html
 2. pre_intro

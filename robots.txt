@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://summerriversound.github.io/cardkkang/sitemap.xml
+Sitemap: https://summerriversound.github.io/feather-note/sitemap.xml
